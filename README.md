@@ -6,7 +6,7 @@ The system is designed for **educational and research purposes**, simulating how
 
 ---
 
-## 🧩 Overview
+##  Overview
 
 ### Hybrid Flow Summary
 
@@ -22,7 +22,7 @@ The system is designed for **educational and research purposes**, simulating how
 
 ---
 
-## ⚙️ Components Used
+##  Components Used
 
 | Function | Implementation | Description |
 |-----------|----------------|-------------|
@@ -35,7 +35,7 @@ The system is designed for **educational and research purposes**, simulating how
 
 ---
 
-## 🧠 Conceptual Architecture
+##  Conceptual Architecture
 
 ```text
 Sender                            Receiver
